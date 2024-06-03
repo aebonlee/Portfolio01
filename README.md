@@ -1,4 +1,4 @@
-# sample6  -   My-Portfolio
+# sample06  -   My-Portfolio
 
 
 http://sample06.jobability.co.kr/
